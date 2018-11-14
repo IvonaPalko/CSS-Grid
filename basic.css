@@ -6,13 +6,6 @@
     color: #ffeead;
 }
 
-.container {
-    display: grid;
-    grid-template-columns: 100px 200px;;
-    grid-template-rows: 50px 50px 100px;
-    grid-gap: 3px;
-}
-
 html, body {
   background-color: #ffeead;
   margin: 10px;
